@@ -25,15 +25,15 @@ public class Main {
 //        }
 //zad. 2
         switch(znak) {
-            case a:
-                System.out.println(a);
-                break;
             case b:
                 System.out.println(a);
                 System.out.println(b);
                 break;
             case c:
                 System.out.println(c);
+                break;
+            default:
+                System.out.println(a);
         }
     }
 }
