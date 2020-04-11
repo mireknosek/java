@@ -34,8 +34,6 @@ public class Main {
                 break;
             case c:
                 System.out.println(c);
-
         }
-
     }
 }
