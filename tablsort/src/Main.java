@@ -21,8 +21,6 @@ public class Main {
             l1 = tab[i + 1];
             if (l < l1 && l < temp) {
                 temp = l;
-                System.out.print("mniejszy element" + temp);
-                System.out.println();
             }
         }
         System.out.println("najmniejsza wartość: " + temp);
